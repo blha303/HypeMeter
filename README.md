@@ -5,6 +5,7 @@ For when there's just not enough hype. Sends a message to a specified IRC channe
 
 Usage
 -----
+ * `git submodule init`, `git submodule update`
  * `pip install -r requirements.txt`
  * Edit hypemeter.py if needed to adjust hype starting level
  * Run hypemeter.py once to create the example config. Modify smbotconfig.json with irc settings
