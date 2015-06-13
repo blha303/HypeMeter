@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 from tornado import gen
 from tornado.websocket import websocket_connect
 from tornado.ioloop import IOLoop, PeriodicCallback
